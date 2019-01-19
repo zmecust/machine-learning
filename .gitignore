@@ -1,3 +1,4 @@
 datasets/*
 *_checkpoints
 test*
+submit*
